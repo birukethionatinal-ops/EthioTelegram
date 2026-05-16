@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://birukethionatinal-ops.github.io/EthioTelegram/sitemap.xml
